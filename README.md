@@ -1,7 +1,6 @@
 **Important update regarding this project:**
 #### This repo is no longer being updated. Currently a new version of the pissgrind app is in developement, which no longer uses Chora and Navidrome. I will link the project as soon as it is ready. Please use [v2.5.3](https://github.com/skit1312/pissgrindlegacy/releases) until the new app is released. Support for pissgrind/pissgrindlegacy will end after the new project is released.
 ---
-
 <div align="center">
   <img width="75" height="75" alt="icon2" src="https://github.com/user-attachments/assets/2d3a455a-4821-4be2-872b-9a685e03b55a" />
   
@@ -12,8 +11,6 @@
 [![GitHub release](https://img.shields.io/github/v/release/skit1312/pissgrindlegacy)](https://github.com/skit1312/pissgrindlegacy/releases)
 
 </div>
-
----
 
 ## About
 
