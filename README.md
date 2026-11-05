@@ -1,3 +1,5 @@
+## This repo is no longer being updated. Currently a new version of the pissgrind app is in developement, which no longer uses Chora and Navidrome. I will link the project as soon as it is ready. Please use pissgrind v2.5.3 until then. All other APK's have been removed.
+
 <div align="center">
   <img width="75" height="75" alt="icon2" src="https://github.com/user-attachments/assets/2d3a455a-4821-4be2-872b-9a685e03b55a" />
   
