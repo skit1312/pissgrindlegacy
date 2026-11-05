@@ -5,7 +5,7 @@
 
   A private music streaming app powered by [Navidrome](https://navidrome.org).
 
-[![GitHub release](https://img.shields.io/github/v/release/skit1312/pissgrind)](https://github.com/skit1312/pissgrind/releases)
+[![GitHub release](https://img.shields.io/github/v/release/skit1312/pissgrindlegacy)](https://github.com/skit1312/pissgrindlegacy/releases)
 
 </div>
 
@@ -64,12 +64,12 @@ The pissgrind music library contains Music/Album Art, that features/displays vio
 
 ## Installation
 
-1. Download the latest APK from [Releases](https://github.com/skit1312/pissgrind/releases)
+1. Download the latest APK from [Releases](https://github.com/skit1312/pissgrindlegacy/releases)
 2. Install on your Android device
 3. Register an account and wait for admin approval
 4. Login and start streaming
 
-Alternatively, add `https://github.com/skit1312/pissgrind` to [Obtainium](https://github.com/ImranR98/Obtainium),
+Alternatively, add `https://github.com/skit1312/pissgrindlegacy` to [Obtainium](https://github.com/ImranR98/Obtainium),
 install and register, wait for approval, login and start streaming.
 
 ---
