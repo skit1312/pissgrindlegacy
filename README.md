@@ -1,9 +1,5 @@
-#### Important update regarding this project:
-
-This repo is no longer being updated. Currently a new version of the pissgrind app is in developement, which no longer uses Chora and Navidrome. I will link the project as soon as it is ready. Please use
-[pissgrind-v2.5.3](https://github.com/skit1312/pissgrindlegacy/releases)
-until the new app is released.
-
+**Important update regarding this project:**
+#### This repo is no longer being updated. Currently a new version of the pissgrind app is in developement, which no longer uses Chora and Navidrome. I will link the project as soon as it is ready. Please use [v2.5.3](https://github.com/skit1312/pissgrindlegacy/releases) until the new app is released. Support for pissgrind/pissgrindlegacy will end after the new project is released.
 ---
 
 <div align="center">
